@@ -1,0 +1,10 @@
+# Gmail API and Auth
+google-api-python-client==2.125.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.0
+
+#Gemini Integration
+google-generativeai
+
+# Env loader for OPENAI_API_KEY
+python-dotenv==1.0.1
