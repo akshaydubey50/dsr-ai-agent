@@ -133,8 +133,8 @@ Use `core/prepare_task_template.py` to create this file each day.
 ## 📨 Email Output
 
 - **Subject**: `Status Report DD Month YYYY Day`
-- **To**: `status@mobileprogramming.com`
-- **Cc**: `paullobo@gofynd.com`
+- **To**: ``
+- **Cc**: ``
 - **From**: your authorized Gmail
 
 ---
