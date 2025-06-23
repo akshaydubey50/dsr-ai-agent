@@ -1,0 +1,41 @@
+# 🐍 Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 🧪 Testing artifacts
+.coverage
+.tox/
+.pytest_cache/
+
+# 📦 Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# 🌍 Virtual environment (named env/, venv/, etc)
+env/
+venv/
+ENV/
+.venv/
+
+# 🔐 Environment variables
+.env
+.env.*
+
+# 📂 VSCode settings (optional)
+.vscode/
+
+# 💡 IDE or editor junk files (optional)
+*.swp
+*.swo
+*.log
+.DS_Store
+Thumbs.db
+
+# Google Auth File
+credentials.json
+
+config.json
